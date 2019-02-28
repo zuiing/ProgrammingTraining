@@ -1,7 +1,7 @@
-#<center>LeetCode练习</center>
----
-<font size=4>
-**1.Three Sum**  
+#<center>  LeetCode练习  </center>  
+---  
+<font size=4>  
+##1.Three Sum  
 
 - 思路：三数之和就相当于两数之和的target的是变化的，所以先排序（从小到大），然后遍历数组，获取target（注意去除重复元素），然后对该元素右侧的所有元素求两数之和为target的组合（注意去除重复元素）。  
 - 代码：  代码本地能过，可submit后显示Runtime Error，该问题未解决！！！
@@ -37,7 +37,7 @@
 
 ```
 
-**2.Majority Element**  
+##2.Majority Element  
 
 - 摩尔投票法Moore Voting：  时间：O(n) 空间：O(1)    缺点：前提是众数存在    
 1)假设第一个数为众数，然后计数器加1；  
@@ -108,7 +108,7 @@
 ```
 
 
-**3.First Missing Positive(求缺失的第一个整数)**   
+##3.First Missing Positive(求缺失的第一个整数)     
   
 - 题目分析：该题限定时间O(n)空间O(1),因此不能用排序及hash表；  
 - 思路：改变元素在数组中的位置,把1放在nums[0],2放在nums[1],即nums[i]放在nums[nums[i]-1]中  
@@ -138,7 +138,7 @@
 
 ```
 
-**4.Linked List Circle I(判断链表是否有环)**  
+##4.Linked List Circle I(判断链表是否有环)    
 
 - 快慢指针：慢指针每次走一步，快指针每次走两步，若有环，肯定会相遇  
 
@@ -168,7 +168,7 @@
 
 ```
 
-**5.Merge k Sorted Lists(合并k个排序链表)**  
+##5.Merge k Sorted Lists(合并k个排序链表)   
 最先想到的就是两两合并，前两个合并，合并好之后和第三个合并，以此类推，但这种方法效率不高。  
 - 两两合并：用到分治法，即不停的折半合并。假设合并6个列表,  
 1)首先分别合并0和3，1和4，2和5;然后合并3个列表，合并0和2；然后合并两个链表，合并0和1；

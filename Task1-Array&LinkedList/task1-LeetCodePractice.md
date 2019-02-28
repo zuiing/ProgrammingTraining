@@ -1,6 +1,7 @@
-#<center>  LeetCode练习  </center>  
+# <center>  LeetCode练习  </center>  
 ---  
 <font size=4>  
+
 ##1.Three Sum  
 
 - 思路：三数之和就相当于两数之和的target的是变化的，所以先排序（从小到大），然后遍历数组，获取target（注意去除重复元素），然后对该元素右侧的所有元素求两数之和为target的组合（注意去除重复元素）。  

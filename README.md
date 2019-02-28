@@ -1,7 +1,7 @@
 # ProgrammingTraining
 It's sad sorry.  
 ### Task one 20190228  
-- 第一个任务终于完成!!!  
+- 第一个任务终于完成!!!  代码主要在dm文档中
 - 继续努力
 
 ### Task one 20190227

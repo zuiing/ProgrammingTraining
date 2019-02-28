@@ -11,7 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CircleLinkedList.cpp" />
+    <ClCompile Include="DLinkedList.cpp" />
+    <ClCompile Include="LinkedList.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{60F25104-DBCF-498F-AC39-2DF10FEAAB99}</ProjectGuid>

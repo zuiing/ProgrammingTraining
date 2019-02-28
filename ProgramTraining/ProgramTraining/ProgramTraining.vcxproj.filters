@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CircleLinkedList.cpp">
+    <ClCompile Include="DLinkedList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

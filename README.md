@@ -1,8 +1,11 @@
 # ProgrammingTraining
 It's sad sorry.  
+### task two 20190302
+- 任务2提前完成!!!
+
 ### Task one 20190228  
 - 第一个任务终于完成!!!  
-- 继续努力
+- 代码和解题思路基本都在在md文档中，部分源码在Codes文件里 继续努力
 
 ### Task one 20190227
 - 实现单链表和循环链表，双向链表明天再写

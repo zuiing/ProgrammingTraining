@@ -1,6 +1,8 @@
 # <center>  LeetCode练习  </center>
+
 ---  
 <font size=4>  
+
 ## 1.Valid Parentheses（有效的括号）  
 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  
 - **问题分析：**  字符串包括()[]{}，需要用一个栈。  

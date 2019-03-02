@@ -285,8 +285,9 @@
 
 ```  
 
-- **运行结果：**  
-<img src="./pic/CircleQueue.jpg">   
+- **运行结果：**   
+
+<img src="./pic/CircleQueue.JPG">   
 
 
 ## 4.学习小结  

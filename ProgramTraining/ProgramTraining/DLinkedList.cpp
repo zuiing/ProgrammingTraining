@@ -155,7 +155,7 @@ void destory(LinkedList* list){
 		removeBack(list);
 	}
 }
-int main(int argv, char *argc[]){
+int main4(int argv, char *argc[]){
 	LinkedList *list = CreateList();
 	insertFront(list, 2);
 	insertFront(list, 22);

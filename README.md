@@ -1,5 +1,8 @@
 # ProgrammingTraining
 It's sad sorry.  
+### task Three 20190305
+- 任务2内容完成,主要对各种排序算法进行了整理，自己实现了一遍。  
+
 ### task two 20190302
 - 任务2提前完成!!!
 

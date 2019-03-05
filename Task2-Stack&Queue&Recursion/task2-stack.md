@@ -216,6 +216,7 @@ delete []pc;
 <img src="./pic/browser3.JPG" width="30%">  
 4）这时，你通过b跳转到了页面d，页面c就无法再通过前进、后退按钮查看了，所以需要清空栈Y,如图4  
 <img src="./pic/browser4.JPG" width="30%">  
+
 - **伪代码：**  
 
 ```

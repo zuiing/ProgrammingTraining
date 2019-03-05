@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CircleQueue.cpp">
+    <ClCompile Include="Sorting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sqrt.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

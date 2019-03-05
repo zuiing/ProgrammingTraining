@@ -50,7 +50,7 @@ public:
 		}cout << endl;
 	}
 };
-int main(){
+int main0(){
 	CircleQueue<int> queue(5);
 	queue.Push(2);
 	queue.Push(22);

@@ -116,7 +116,7 @@
 1)遍历整个数组，若nums[i]!=i+1,且nums[i]不大于n,且nums[i]不等于nums[nums[i]-1]时，将两者位置调换;  
 2)再遍历一遍数组,如果对应位置上的数不正确则返回正确的数  
 - 实现过程如图：  
-<div align="center"><img src="./Sources/First-Missing-Positive.JPG" width="40%"></div>
+<div align="center"><img src="./pic/First-Missing-Positive.JPG" width="40%"></div>
 ```
 
 	class Solution {
@@ -174,7 +174,7 @@
 - 两两合并：用到分治法，即不停的折半合并。假设合并6个列表,  
 1)首先分别合并0和3，1和4，2和5;然后合并3个列表，合并0和2；然后合并两个链表，合并0和1；
 2)代码中的k是通过 (n+1)/2 计算的，这里为啥要加1呢，这是为了当n为奇数的时候，k能始终从后半段开始,当n是偶数的时候，加1也不会有影响.过程如下图  
-<div align="center"><img src="./Sources/Merge-K-Sorted-Lists.JPG" width="60%"></div>
+<div align="center"><img src="./pic/Merge-K-Sorted-Lists.JPG" width="60%"></div>
 
 ```
 
@@ -246,6 +246,6 @@
 	    }
 	};
 
-```
+```  
 
 </font>

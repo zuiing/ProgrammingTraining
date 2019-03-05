@@ -111,10 +111,10 @@
 ```
 
 代码运行结果：  
-![运行结果](./Sources/task1-LinkedList.JPG)  
+![运行结果](./pic/task1-LinkedList.JPG)  
 2)循环链表  
 注：初始化函数中传递的是*head，只要是修改head指针必须传递head的地址，否则传递head的值即可。 可参照下图理解链表初始化：  
-![运行结果](./Sources/task1-CLinkedList.JPG)  
+![运行结果](./pic/task1-CLinkedList.JPG)  
 ```  
 
 	#include <iostream>
@@ -228,7 +228,7 @@
 
 ```
 代码运行结果：  
-![运行结果](./Sources/task1-CLinkedList2.JPG)   
+![运行结果](./pic/task1-CLinkedList2.JPG)   
 
 3)双向链表
     
@@ -416,12 +416,12 @@
 
 - 运行结果
 
-<div align="center"><img src="./Sources/task1-DLinkedList.JPG"></div>
+<div align="center"><img src="./pic/task1-DLinkedList.JPG"></div>
 
 **2.实现单链表反转**  
 
 - 反转思路：设三个指向结点的指针  
-<div align="center"><img src="./Sources/task1-ReverseLinkedList.JPG" width="70%"></div>
+<div align="center"><img src="./pic/task1-ReverseLinkedList.JPG" width="70%"></div>
 - LeetCode代码  
 
 ```

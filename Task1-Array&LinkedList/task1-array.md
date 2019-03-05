@@ -105,7 +105,7 @@
 	}
 ```      
 代码运行结果：  
-![运行结果](./Sources/task1-DArray.JPG)
+![运行结果](./pic/task1-DArray.JPG)
 
 **2.实现一个大小固定的有序数组，支持动态增删操作**  
 
@@ -193,7 +193,7 @@
 	}
 ```
 代码运行结果：  
-![运行结果](./Sources/task1-SArray.JPG)
+![运行结果](./pic/task1-SArray.JPG)
 
 **3.实现两个有序数组合并为一个有序数组**  
 
@@ -233,7 +233,7 @@
 
 ```  
 代码运行结果：  
-![运行结果](./Sources/task1-MergeSortedArray.JPG)
+![运行结果](./pic/task1-MergeSortedArray.JPG)
 
 **4.学习哈希思想，完成leetcode上两数之和(1)和Happy Number(202)**  
  

@@ -11,9 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BinarySearch.cpp" />
-    <ClCompile Include="Sorting.cpp" />
-    <ClCompile Include="Sqrt.cpp" />
+    <ClCompile Include="bf_rk.cpp" />
+    <ClCompile Include="HashLink.cpp" />
+    <ClCompile Include="LRU_Cache.cpp" />
+    <ClCompile Include="string.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{60F25104-DBCF-498F-AC39-2DF10FEAAB99}</ProjectGuid>

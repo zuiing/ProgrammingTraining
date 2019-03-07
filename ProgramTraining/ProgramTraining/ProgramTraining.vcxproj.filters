@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sorting.cpp">
+    <ClCompile Include="HashLink.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="BinarySearch.cpp">
+    <ClCompile Include="bf_rk.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Sqrt.cpp">
+    <ClCompile Include="string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LRU_Cache.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

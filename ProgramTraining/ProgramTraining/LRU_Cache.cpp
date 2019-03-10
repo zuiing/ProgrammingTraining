@@ -79,7 +79,7 @@ public:
 };
 
 
-int main(){
+int mainLRU(){
 	LRUCache *lruCache = new LRUCache(3);
 	lruCache->put(1, 2);
 	lruCache->put(11, 22);

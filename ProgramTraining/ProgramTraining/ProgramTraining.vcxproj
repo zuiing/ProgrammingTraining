@@ -11,10 +11,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bf_rk.cpp" />
+    <ClCompile Include="binarySearchTree.cpp" />
     <ClCompile Include="HashLink.cpp" />
+    <ClCompile Include="mergeKSortedArray.cpp" />
+    <ClCompile Include="minHeap.cpp" />
     <ClCompile Include="LRU_Cache.cpp" />
-    <ClCompile Include="string.cpp" />
+    <ClCompile Include="Sorting.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{60F25104-DBCF-498F-AC39-2DF10FEAAB99}</ProjectGuid>

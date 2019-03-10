@@ -156,7 +156,7 @@ int findKthLargest3(vector<int>&A, int k){
 		else left = pos + 1;
 	}
 }
-int main0(){
+int mainSort(){
 	vector<int> A(8);
 	srand((unsigned)time(0));
 	cout << "ÅÅÐòÇ°£º";

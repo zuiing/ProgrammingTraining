@@ -15,22 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HashLink.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="LRU_Cache.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="binarySearchTree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Sorting.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="minHeap.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="mergeKSortedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UndiGraphMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UndiGraphAdjacencylist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ListDG.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixUDG.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

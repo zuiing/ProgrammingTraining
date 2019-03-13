@@ -84,7 +84,7 @@ int* mergeKSortedArrays(int arr[][n],int k){
 	return output;
 }
 
-int main(){
+int mainMergeKArray(){
 	int arr[][n] = { { 2, 6, 12, 34 },
 	{ 1, 9, 20, 100 },
 	{ 22, 33, 99, 222 } };

@@ -3,8 +3,9 @@
 ---  
 <font size=4>  
 
-## 1.Letter Combinations of a Phone Number(17)[电话号码的字母组合](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  
+## 1.Letter Combinations of a Phone Number(17)  [电话号码的字母组合](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  
 <img src="./pic/leetcode17.JPG">  
+
 **问题分析：**  求电话号码的字母组合，即数字2-9中每个数字可以代表若干个字母，然后给一串数字，求出所有可能的组合。  
 **解题思路：**  用递归求解，需要建立一个字典，用来保存每个数字所代表的字符串，然后我们还需要一个变量level，记录当前生成的字符串的字符个数。在递归函数中，首先判断level，如果和digits中数字的个数相等了，就将当前的组合加入结果res中，然后返回。否则通过digits中的数字到dict中取出字符串，然后遍历这个取出的字符串，将每个字符都加到当前的组合后面，并调用递归函数即可。  
 ```
@@ -28,9 +29,9 @@
 	        }
 	    }
 	};
-```
+```  
 
-## 2.permutations(46) [全排列](https://leetcode.com/problems/permutations/)  
+## 2.permutations(46)  [全排列](https://leetcode.com/problems/permutations/)  
 **解题思路：**  每次交换nums数组里面的两个数字，经过递归生成所有的排列情况。
 ```
 

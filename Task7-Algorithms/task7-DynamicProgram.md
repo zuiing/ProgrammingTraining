@@ -76,6 +76,7 @@
 >如果:a[i]==b[j],那么min_edist(i,j)=min(min_edist(i-1,j)+1, min_edist(i,j-1)+1,min_edist(i-1,j-1)).  
 
 <img src="./pic/edist_DP.JPG">  
+
 ```
 
 	int minDist = INT_MAX;

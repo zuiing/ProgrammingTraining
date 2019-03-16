@@ -21,16 +21,13 @@
     <ClCompile Include="mergeKSortedArray.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="UndiGraphMatrix.cpp">
+    <ClCompile Include="package.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="UndiGraphAdjacencylist.cpp">
+    <ClCompile Include="DivideAndConquer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ListDG.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="MatrixUDG.cpp">
+    <ClCompile Include="DynamicProgramming.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

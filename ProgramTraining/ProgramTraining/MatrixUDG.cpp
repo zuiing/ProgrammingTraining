@@ -249,7 +249,7 @@ void MatrixUDG::dijkstra(int vs, int prev[], int dist[])
 }
 
 
-int main(){
+int mainUDG(){
 	int prev[MAX] = { 0 };
 	int dist[MAX] = { 0 };
 	char vexs[] = { 'A', 'B', 'C', 'D', 'E', 'F', 'G' };

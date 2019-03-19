@@ -1,5 +1,6 @@
 # ProgrammingTraining
 It's sad sorry.  
+
 ### task five 20190310
 - 二叉搜索树的功能基本都实现了，实现了小顶堆以及利用优先队列和小顶堆的练习题目。  
 - leetcode上有关树的练习不是很难，基本上都用了递归和非递归两种方法实现。
